@@ -52,9 +52,9 @@ def sort_byname(list_content,file_dest):
     
 #Programa Principal
 contenido=lectura_csv("PitchingPost.csv")
-#l=["año","frecuencia"]
-#frecuencia_year(contenido,"frecuencia_year.csv",1,l)
-#l=["jugador","frecuencia"]
-#frecuencia_year(contenido,"frecuencia_player.csv",0,l)
+l=["año","frecuencia"]
+frecuencia_year(contenido,"frecuencia_year.csv",1,l)
+l=["jugador","frecuencia"]
+frecuencia_year(contenido,"frecuencia_player.csv",0,l)
 sort_byname(contenido,"sorted.csv")
 
