@@ -1,0 +1,17 @@
+<catalogo>
+  <Libro Orden="1" isbn="1111">
+  	<titulo>El quijote</titulo>
+  	<autor>Cervantes</autor>
+    <precio>1200</precio>
+  <editorial>Anaya</editorial></Libro>
+  <Libro Orden="2" isbn="2222">
+  	<titulo>El si de las Ni&#241;as</titulo>
+  	<autor>Fernando de Rojas</autor>
+    <precio>1800</precio>
+  <editorial>Anaya</editorial></Libro>
+  <Libro Orden="3" isbn="3333">
+  	<titulo>Historia de una escalera</titulo>
+  	<autor>Buero vallejo</autor>
+    <precio>200</precio>
+  <editorial>Anaya</editorial></Libro>
+</catalogo>

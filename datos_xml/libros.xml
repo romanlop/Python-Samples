@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<catalogo>
+  <Libro isbn="1111">
+  	<titulo>El quijote</titulo>
+  	<autor>Cervantes</autor>
+    <precio>1200</precio>
+  </Libro>
+  <Libro isbn="2222">
+  	<titulo>El si de las Niñas</titulo>
+  	<autor>Fernando de Rojas</autor>
+    <precio>1800</precio>
+  </Libro>
+  <Libro isbn="3333">
+  	<titulo>Historia de una escalera</titulo>
+  	<autor>Buero vallejo</autor>
+    <precio>200</precio>
+  </Libro>
+</catalogo>
